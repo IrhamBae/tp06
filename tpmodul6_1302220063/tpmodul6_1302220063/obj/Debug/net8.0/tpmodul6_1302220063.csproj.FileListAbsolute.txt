@@ -1,0 +1,14 @@
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\bin\Debug\net8.0\tpmodul6_1302220063.exe
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\bin\Debug\net8.0\tpmodul6_1302220063.deps.json
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\bin\Debug\net8.0\tpmodul6_1302220063.runtimeconfig.json
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\bin\Debug\net8.0\tpmodul6_1302220063.dll
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\bin\Debug\net8.0\tpmodul6_1302220063.pdb
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\tpmodul6_1302220063.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\tpmodul6_1302220063.AssemblyInfoInputs.cache
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\tpmodul6_1302220063.AssemblyInfo.cs
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\tpmodul6_1302220063.csproj.CoreCompileInputs.cache
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\tpmodul6_1302220063.dll
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\refint\tpmodul6_1302220063.dll
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\tpmodul6_1302220063.pdb
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\tpmodul6_1302220063.genruntimeconfig.cache
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\Minggu 6\CODE\tpmodul6_1302220063\tpmodul6_1302220063\obj\Debug\net8.0\ref\tpmodul6_1302220063.dll
